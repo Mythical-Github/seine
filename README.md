@@ -1,6 +1,9 @@
-## Plutonium Archiver
+## Sein
 
-This is a work in progress cli tool to backup files relating to [Plutonium](https://plutonium.pw/)
+This is a work in progress cli tool to backup/archive files relating to various Call of Duty Clients, it plans to support the following clients and more:
+
+- [AlterWare](https://alterware.dev/)
+- [Plutonium](https://plutonium.pw/)
 
 
 ### Join the Discord
@@ -8,11 +11,11 @@ If you have any problems, suggestions, or just want to chat, feel free to join t
 
 
 ### Suggestions
-If you have ideas or suggestions for the tool feel free to open a [suggestions issue](https://github.com/Mythical-Github/shoal/issues) or mention it in the discord.
+If you have ideas or suggestions for the tool feel free to open a [suggestions issue](https://github.com/Mythical-Github/seine/issues) or mention it in the discord.
 
 
 ### Bug Reports
-If you encounter a bug or issue, please submit a report on the [issues page](https://github.com/Mythical-Github/shoal/issues). 
+If you encounter a bug or issue, please submit a report on the [issues page](https://github.com/Mythical-Github/seine/issues). 
 When creating an issue, please provide as much information as possible, including:
 - Steps to reproduce the issue
 - What you expect to happen, versus what is happening
